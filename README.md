@@ -67,3 +67,7 @@ brew install --cask font-hack-nerd-font
 ```sh
 brew install claude-squad
 ```
+
+## iTerm2
+
+プロファイルの復元：iTerm2 → Settings → Profiles → Other Actions... → Import JSON Profiles... → `iterm2-profile.json` を選択
